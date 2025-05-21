@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntoDavidov
 - 👀 I’m interested in sports and programming
 - 🌱 I’m currently learning Software Engineering at Fontys ICT and SoftUni!
-- 📫 How to reach me: antonio.davidov@kikkaboo.com
+- 📫 How to reach me: antoniodavidov17@gmail.com
 
 
 <!---
