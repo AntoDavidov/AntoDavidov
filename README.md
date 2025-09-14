@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Antonio Davidov</h1>
 <h3 align="center">A wannabe Full-Stack Developer originally from Bulgaria.</h3>
 
-- 🔭 I’m currently exploring **Roboflow and how to use the annotation of objects.**
+- 🔭 I’m currently working at JBT Marel, to improve my coding and communication skills working as a professionalist in Software Engineering.**
 
 - 🌱 I’m currently learning **Software Engineering at Fontys ICT!**
 
